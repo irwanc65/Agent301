@@ -1,0 +1,1 @@
+query_id=AAFr2Mk0AwAAAGvYyTRmPLw7&user=%7B%22id%22%3A7328094315%2C%22first_name%22%3A%22irwan%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22irwanc65%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725008937&hash=a7a70f5e67fbc4f6e208c8924626fc7fc6eb94f9c078231d0caf05baf69a67f5
